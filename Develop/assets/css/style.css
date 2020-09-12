@@ -22,7 +22,9 @@ body {
     font-size: 48px;
 }
 
-.header h1 .seo {
+/** removed h1/header **/
+
+ .seo {
     color: #d9dcd6;
 }
 
@@ -35,7 +37,7 @@ body {
 }
 
 .header nav ul {
-    list-style-type: none;
+    list-style-type: none;  
 }
 
 .header nav ul li {
@@ -174,10 +176,11 @@ p {
 .social-media-marketing img {
     max-height: 200px;
 }
+/** you need the different h2 in each group to account for different child elements**/
 
-.search-engine-optimization h2 {
-    margin-bottom: 20px;
+.search-engine-optimization h2 { 
     font-size: 36px;
+    margin-bottom: 20px;
 }
 
 .online-reputation-management h2 {
