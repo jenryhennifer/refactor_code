@@ -1,6 +1,6 @@
 # refactor_code
 
-![Image](Develop/assets/images/webpage.png)
+![Image](assets/images/webpage.png)
 page example
 
 **Tech Used**
