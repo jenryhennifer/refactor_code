@@ -32,3 +32,5 @@ Every image needed an alt tag to allow contet if the image doesn't load or if it
 
 
 **Demo**
+
+https://jenryhennifer.github.io/refactor_code/.
